@@ -1,3 +1,6 @@
+body{
+    background-color: powderblue;
+}
 h1{
     color:blue
 }
@@ -18,4 +21,7 @@ h6{
 }
 p{
     color:brown
+}
+li{
+    color: greenyellow;
 }
